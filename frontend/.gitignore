@@ -23,6 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-# Node modules and files
+# Ignore node_modules directory
 node_modules/
+
+# Ignore .env files
 .env*
