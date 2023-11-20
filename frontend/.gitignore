@@ -25,3 +25,4 @@ dist-ssr
 
 # Node modules and files
 node_modules/
+.env*
